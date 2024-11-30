@@ -71,9 +71,9 @@ Improvement is usually seen within 2 to 6 weeks after the procedure. Pain relief
 
 ## Testimonials
 
-### "After my PRP treatment at Knee Xpert, I felt a significant reduction in knee pain and improved mobility within a few weeks. Highly recommend their services!" - [Patient Name]
+### "After my PRP treatment at Knee Xpert, I felt a significant reduction in knee pain and improved mobility within a few weeks. Highly recommend their services!" - [Mr. Ramesh Sharma]
 
-### "The team at Knee Xpert is professional, and the PRP treatment has worked wonders for my knee pain. I can finally get back to my daily activities without discomfort." - [Patient Name]
+### "The team at Knee Xpert is professional, and the PRP treatment has worked wonders for my knee pain. I can finally get back to my daily activities without discomfort." - [Mr Anokhilal Jain]
 
 ## Conclusion
 
