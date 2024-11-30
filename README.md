@@ -91,9 +91,9 @@ For more information or to book an appointment:
 - **Location**: [15/2, behind Hotel Surya, Sriram Nagar, South Tukoganj, Indore, Madhya Pradesh 452001]
 
 ---
-
-*Follow us on social media for updates, tips, and patient success stories:*
-- Facebook: [https://www.facebook.com/kneexpert]
-- Instagram: [https://www.instagram.com/knee_xpert/]
-- Twitter: [https://x.com/KneeXpert]
-- LinkedIn: [https://www.linkedin.com/company/sahaj-knee-xpert?originalSubdomain=in]
+ ### Follow Us
+Stay connected with us for updates and health tips!  
+🌐 [Facebook](https://www.facebook.com/kneexpert)  
+🌐 [Instagram](https://www.instagram.com/knee_xpert)  
+🌐 [Twitter](https://x.com/KneeXpert)  
+🌐 [YouTube](https://www.youtube.com/@KneeXpert)
