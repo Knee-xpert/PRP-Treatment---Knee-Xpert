@@ -55,11 +55,6 @@ Booking an appointment at Knee Xpert is simple. Follow these steps:
 3. Fill out the online consultation form or call us directly.
 4. Our team will get in touch with you to schedule your treatment.
 
-### Contact Information
-- **Phone**: [Insert Phone Number]
-- **Email**: [Insert Email Address]
-- **Location**: [Insert Address in Indore]
-
 ## FAQs about PRP Treatment
 
 ### Is PRP safe?
@@ -93,11 +88,12 @@ For more information or to book an appointment:
 📞 : *82230-83555*  
 📧 : info@kneexpert.in  
 🌐 : [Knee Xpert Website](https://sahajhospital.com/)
+- **Location**: [15/2, behind Hotel Surya, Sriram Nagar, South Tukoganj, Indore, Madhya Pradesh 452001]
 
 ---
 
 *Follow us on social media for updates, tips, and patient success stories:*
 - Facebook: [https://www.facebook.com/kneexpert]
-- Instagram: [[Insert Link](https://www.instagram.com/knee_xpert/)]
-- Twitter: [[Insert Link](https://x.com/KneeXpert)]
-- LinkedIn: [[Insert Link](https://www.linkedin.com/company/sahaj-knee-xpert?originalSubdomain=in)]
+- Instagram: [https://www.instagram.com/knee_xpert/]
+- Twitter: [https://x.com/KneeXpert]
+- LinkedIn: [https://www.linkedin.com/company/sahaj-knee-xpert?originalSubdomain=in]
