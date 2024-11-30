@@ -34,9 +34,6 @@ PRP therapy is ideal for individuals suffering from:
 - Sports-related injuries
 - Chronic knee pain
 
-## PRP Treatment Cost
-
-- **Cost per Session**: ₹9000
 
 Each session of PRP treatment is tailored to the individual needs of the patient. Multiple sessions may be recommended depending on the severity of the condition.
 
